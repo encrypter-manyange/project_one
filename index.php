@@ -13,6 +13,7 @@
         <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
+                <img src="images/Logo.png" alt="">
                 <a class="navbar-brand" href="#"> EGLOO</a>
                 </div>
                 <ul class="nav navbar-nav navbar-right">
