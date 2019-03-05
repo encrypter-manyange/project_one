@@ -18,6 +18,7 @@
 
 .cover-page{
     background-size: cover;
+    width:100%;
 }
 .middle-class{
     height: 100%;
